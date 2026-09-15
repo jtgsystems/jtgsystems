@@ -13,7 +13,7 @@ Welcome to the official public GitHub profile of **JTG Systems**. We build, oper
 
 * **[JTG Systems](https://www.jtgsystems.com)** — Flagship enterprise IT infrastructure, managed services, data recovery, and computer hardware engineering lab serving St. Catharines, Niagara, and Southern Ontario.
 * **[Online Robot Shop](https://onlinerobotshop.com)** — Premier global directory and component catalog for robotics hardware, industrial automation, actuators, microcontrollers, and engineering modules.
-* **[Strix Vision AI](https://strixvisionai.com)** — Next-generation computer vision, real-time edge video analytics, autonomous security monitoring, and neural object detection systems.
+* **[Strix Vision AI](https://strixvisionai.com)** — Investigator-grade case narratives and disclosure-ready evidence intelligence with sovereign, on-premises Canadian data residency.
 * **[Zippy Global Trading](https://zippyglobaltrading.com)** — Cross-border e-commerce, international wholesale sourcing, and global supply chain logistics.
 
 ---
@@ -45,7 +45,6 @@ Welcome to the official public GitHub profile of **JTG Systems**. We build, oper
 * **[Advantage Courier and Transport](https://advantagecourierandtransport.com)** — Same-day regional express delivery, freight transport, scheduled courier routes, and dedicated logistics.
 * **[ALR Private Car Services](https://alrprivatecarservices.com)** — Premium executive chauffeur, Pearson airport luxury transfers, corporate travel, and special event transportation.
 * **[Joe's Automotive Garage](https://joesautomotivegarage.com)** — Full-service licensed mechanical repair shop, safety inspections, brake systems, transmissions, and engine diagnostics.
-* **[Steampunk Auto Detailing](https://steampunkautodetailing.com)** — Elite automotive paint correction, ceramic coatings, interior sanitation, and high-end vehicle restoration.
 
 ---
 
