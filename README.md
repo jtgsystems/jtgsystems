@@ -1,9 +1,8 @@
-# 🌐 JTG Systems | Canadian Technology & Business Network
+# 🌐 JTG Systems | Joint Technology Group Inc.
 
 [![Verified Network](https://img.shields.io/badge/Verified-Network-blue.svg)](https://www.jtgsystems.com)
 [![Status: Active](https://img.shields.io/badge/Status-Active%202026-brightgreen.svg)](https://www.jtgsystems.com)
 [![Location: Ontario, Canada](https://img.shields.io/badge/Location-Ontario%2C%20Canada-red.svg)](https://www.jtgsystems.com)
-[![Directory Live](https://img.shields.io/badge/Public%20Registry-Live-orange.svg)](https://jtgsystems.github.io/canadian-business-directory/)
 
 Welcome to the official public GitHub profile of **JTG Systems**. We build, operate, and maintain a diversified network of enterprise technology platforms, autonomous computer vision systems, regional business directories, and trusted local service providers across Ontario and Canada.
 
@@ -77,5 +76,4 @@ Welcome to the official public GitHub profile of **JTG Systems**. We build, oper
 
 * **Headquarters**: St. Catharines / Niagara, Ontario, Canada
 * **Network Portal**: [https://www.jtgsystems.com](https://www.jtgsystems.com)
-* **Open Source Registry**: [https://jtgsystems.github.io/canadian-business-directory/](https://jtgsystems.github.io/canadian-business-directory/)
 * **Direct Phone Support**: [(905) 892-4555](tel:9058924555)
