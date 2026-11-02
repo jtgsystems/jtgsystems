@@ -56,7 +56,7 @@ Headquartered in the Niagara Region of Ontario, **JTG Systems** is a premier tec
 ## 📬 Contact & Inquiries
 
 * **Founder & Owner**: John Gallie
-* **Headquarters & Lab**: St. Catharines / Welland, Niagara Region, Ontario, Canada
+* **Headquarters & Lab**: 23 Sharon Ave, Welland, ON L3C 4M8, Canada (Niagara Region)
 * **Website**: [https://www.jtgsystems.com](https://www.jtgsystems.com)
 * **Direct Phone Support**: [(905) 892-4555](tel:9058924555)
 * **Direct Email**: `jtgsystems@gmail.com`
